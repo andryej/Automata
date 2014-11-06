@@ -1,5 +1,5 @@
 /*
- *      Recursive descent parser for validating syntax and simplfy regular expressions
+ *      Recursive descent parser for validating syntax and simplifying regular expressions
  *
  *      Author : Andrzej Gluszynski
  */
